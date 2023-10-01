@@ -15,7 +15,8 @@ export default function Post(){
 </p>
 
       </div>
-      <div className="content"></div></main>
+      <div className="content"></div>
+      </main>
 
     );
 }
